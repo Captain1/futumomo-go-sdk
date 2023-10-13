@@ -1,8 +1,8 @@
-# 富途OpenAPI Golang SDK
+# 富途moomoo OpenAPI Golang SDK
 
 ## 简介
 
-* Go语言封装的[富途牛牛OpenAPI](https://openapi.futunn.com/futu-api-doc/)。
+* Go语言封装的[富途moomoo OpenAPI](https://openapi.moomoo.com/moomoo-api-doc)。
 * 尽量接近Python版本的使用方法。
 * 利用Go语言特性，例如channel，goroutine等。
 
@@ -11,7 +11,7 @@
 1. import
 
     ```
-    import "github.com/hurisheng/go-futu-api"
+    import "github.com/Captain1/futumomo-go-sdk"
     ```
 
 1. 创建API实例
